@@ -15,3 +15,5 @@ https://linuxize.com/post/how-to-install-postgresql-on-ubuntu-18-04/
 
 Initial setup to make the api publicly available:
 https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04
+
+test
